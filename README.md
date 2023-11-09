@@ -14,7 +14,7 @@ In the `data` folder you will find the following files:
 
 **1. classicmodels.sql** : the classicmodels database (you can import it directly if you are using tableau desktop)
 
-**2. ERD.png** : the ERD of the classicmodels database
+**2. ERD.png** : the ERD of the classicmodels database.
 
 **3. .xlsx file** : This excel file contains the data displayed in several sheets inside the file. You'll have to build the relationships between tables on your own.
 
