@@ -1,3 +1,5 @@
+https://public.tableau.com/views/Dash_classicmodels/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
+
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png) 
 
 # Lab | Power BI
