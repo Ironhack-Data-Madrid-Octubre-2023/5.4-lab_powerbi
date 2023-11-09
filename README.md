@@ -5,6 +5,8 @@
 
 ## Introduction
 
+
+
 [Power BI](https://www.tableau.com/) as Tableau is a data visualization tool which provides pictorial and graphical representations of data.
 
 Your goal in this lab is to create a **Power BI dashboard** that shows the insights you find useful from de given data.
