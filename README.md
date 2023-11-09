@@ -3,6 +3,9 @@
 # Lab | Power BI
 ![Power BI logo](https://docs.microsoft.com/es-es/power-bi/create-reports/media/desktop-gridlines-snap-to-grid/snap-to-grid-desktop.png)
 
+change 
+
+
 ## Introduction
 
 [Power BI](https://www.tableau.com/) as Tableau is a data visualization tool which provides pictorial and graphical representations of data.
