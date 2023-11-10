@@ -17,11 +17,11 @@ En el primer dashboard se muestran las 3 primeras hojas.
 
 - **Estas se encuentran filtradas por país**: 
     
-        - El mapa basado en Longitud y Latitud.  El color muestra suma de orderNumber (orders).  Se muestran detalles para Country (Offices).
-      
-        - Recuento de orders para cada Country (Offices) desglosado por Order Date año.  El color muestra detalles acerca de Country (Offices).  Las marcas se etiquetan por suma de Quantity Ordered. Los datos se filtran en Acción (Country (Offices)), lo que conserva 5 miembros.
+     - El mapa basado en Longitud y Latitud.  El color muestra suma de orderNumber (orders).  Se muestran detalles para Country (Offices).
+     
+     - Recuento de orders para cada Country (Offices) desglosado por Order Date año.  El color muestra detalles acerca de Country (Offices).  Las marcas se etiquetan por suma de Quantity Ordered. Los datos se filtran en Acción (Country (Offices)), lo que conserva 5 miembros.
 
-        - Recuento de orders para cada Product Line desglosado por Country (Offices).  El color muestra detalles acerca de productLine (products). Los datos se filtran en Acción (Country (Offices)), lo que conserva 5 miembros. La vista se filtra en productLine (products), lo que conserva 7 de 7 miembros.
+     - Recuento de orders para cada Product Line desglosado por Country (Offices).  El color muestra detalles acerca de productLine (products). Los datos se filtran en Acción (Country (Offices)), lo que conserva 5 miembros. La vista se filtra en productLine (products), lo que conserva 7 de 7 miembros.
 
 
 ## Dashboard 2. Classic Cars
