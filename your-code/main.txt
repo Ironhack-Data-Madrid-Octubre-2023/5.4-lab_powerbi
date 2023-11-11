@@ -1,0 +1,5 @@
+
+Finalmente he realizado el las en Tableau al ser imposible la instalación de Power Bi en el Mac.
+
+
+https://public.tableau.com/app/profile/noelia.roson/viz/CLSICOSGLOBALES/Dashboard1?publish=yes
